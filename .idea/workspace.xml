@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="db621743-c5f6-4bab-9f6c-0c28c646e04c" name="变更" comment="进行了简单的数据处理" />
+    <list id="40934e72-915e-4e0f-a9d6-a1b0dd3442d9" name="NYLM 进行的变更" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,7 +61,7 @@
       <workItem from="1686300992137" duration="163000" />
       <workItem from="1686301174086" duration="967000" />
       <workItem from="1686308615044" duration="565000" />
-      <workItem from="1686309248569" duration="13191000" />
+      <workItem from="1686309248569" duration="13567000" />
     </task>
     <servers />
   </component>
